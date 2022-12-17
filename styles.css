@@ -181,3 +181,10 @@ button > a {
 .callbox > button {
     border: 2px solid #E5E7EB;
 }
+.footer {
+    background-color: #1F2937;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
